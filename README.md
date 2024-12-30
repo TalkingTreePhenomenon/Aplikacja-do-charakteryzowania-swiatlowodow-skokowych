@@ -1,0 +1,1 @@
+# Aplikacja-do-charakteryzowania-swiatlowodow-skokowych
