@@ -4,7 +4,7 @@ import scipy.special
 import numpy as np
 from struktura import structure
 from functions import dynamiczny_import
-c = 299792458 #m/s
+c = scipy.constants.c
 
 
 def danymod(włókno=None, m=None, Lp=None, Lk=None, Ls=None, promien=None, dok=None,typ = None):
